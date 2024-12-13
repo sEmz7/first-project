@@ -1,7 +1,4 @@
-# Привет
-## semzz
-
-Курсив — это *звёздочки* или _подчёркивания_.
+### semzz
 
 * just train
 * just keep going
